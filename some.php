@@ -1,2 +1,2 @@
 #some code
-.php
+<.php>
